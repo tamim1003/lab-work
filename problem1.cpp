@@ -12,5 +12,5 @@ int main()
    }
    printf("\nThe total sum of %d terms are: %d \n",n,sum);
 
-   return 0;
+   
 }
